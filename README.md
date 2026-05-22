@@ -69,7 +69,7 @@ Sou iniciante e **adoraria colaborar com você**! Se você está interessado em:
 
 - 💼 **LinkedIn:** [Carla Falcão](https://linkedin.com/in/carlafalcaoo)
 - 📄 **Lattes:** [Meu Currículo Lattes](https://lattes.cnpq.br/)
-- 📱 **Instagram:** [@seu_insta_aqui](https://instagram.com/) *(Curiosidades de Programação & Física)*
+- 📱 **Instagram:** [@fisicando.ideias](https://www.instagram.com/fisicando.ideias/) *(Curiosidades de Programação & Física)*
 - 💻 **GitHub:** [@carlafalcaoo](https://github.com/carlafalcaoo)
 
 ---
